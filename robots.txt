@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://julietavc.github.io/sitemap.xml
+Sitemap: https://julieta-vc.github.io/sitemap.xml
