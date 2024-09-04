@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD candidate in Politics, New York University</a>. (NYU)
+subtitle: <a href='#'>PhD candidate in Politics, New York University</a> (NYU)
 
 profile:
   align: right
@@ -14,6 +14,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+I am a PhD candidate in the [Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html) at NYU, and a graduate affiliate of the [Identities & Ideologies Project](https://www.identities-ideologies.org/).
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
