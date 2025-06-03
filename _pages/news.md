@@ -1,11 +1,10 @@
 ---
-layout: cv_aux
-permalink: /cv_aux/
-title: cv_aux
-nav: true
+layout: news
+permalink: /news/
+title: news
+nav: false
 nav_order: 5
-cv_pdf: CV_JulietaValenzuela.pdf
-description: You can find my updated CV in the link
+description: Latest news
 
 ---
 
