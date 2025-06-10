@@ -7,10 +7,19 @@ nav: true
 nav_order: 1
 ---
 
-gender and politics
+WORKING PAPERS
+
+1. Women’s Movements, Identity and Appeals: How to Motivate Participation?
+2. Fouls at Home: Football-Induced Domestic Violence and Female Activism
+3. Path dependency in the emergence of women’s movements
 
 
-social movements
+WORK IN PROGRESS
+
+1. Making an intersectional feminist: How does racial identification relate to challenging gender norms?
+2. From Protests to Polls: Evidence of Mass Political Participation in the Chilean Uprising
+3. When the Community Provides for Itself: A Look at the Effect of the Black Panther Party’s People’s Free Medical Clinics on Public Health Expenditure (with Laura Agosto)
+4. Political Life Cycles and Dispute Onset (with Alastair Smith)
 
 
-older
+
