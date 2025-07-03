@@ -20,4 +20,4 @@ My research is on Comparative Politics and Political Behavior from the citizens'
 
 In my dissertation, I explore how women react and organize to the threat of gender violence with a special (but non-exclusive) focus on Latin America. 
 
-Before the PhD, I earned a B.S. in Economics from Universidad de Chile and an M.A. in Politics from NYU.
+Before the PhD, I earned a B.S. in Economics from Universidad de Chile and an M.A. in Politics from NYU. I also worked for the Chilean government's Department of Education implementing a new policy for free tuition in higher education.
