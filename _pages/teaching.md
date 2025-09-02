@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-NEW YORK UNIVERSITY
+## New York University
 
 - Politics of Climate Change (Undergraduate) – T.A. for Eric Dickson, Fall 2025 (scheduled)
 - Introduction to Quantitative Methods II (MA) - T.A. for Nicole Simonelli, Spring 2025
@@ -18,8 +18,8 @@ NEW YORK UNIVERSITY
 - Law and Society (Undergraduate) - T.A. for Christine Harrington, Fall 2022
   
 
+---
 
-
-UNIVERSIDAD DE CHILE
+## Universidad de Chile
 - Introduction to Macroeconomics (Undergraduate) – T.A. for Mario Giarda
 
