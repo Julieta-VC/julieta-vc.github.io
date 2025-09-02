@@ -9,6 +9,10 @@ nav_order: 1
 WORKING PAPERS
 
 1. Motivating Support for Women's Movements: Identity and Appeals. (*Job market paper*)
+<button id="Abstract">Click me</button>
+<div id="displayText" style="display: none;">
+  This is the text that appears when you click the button.
+</div>
 2. Fouls at Home: Football-Induced Domestic Violence and Female Activism
 3. Political Life Cycles and Dispute Onset (with Alastair Smith). *Under review*
 
