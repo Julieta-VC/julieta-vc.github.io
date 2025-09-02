@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 
-## WORKING PAPERS
+## working papers
 
 1. Motivating Support for Women's Movements: Identity and Appeals. (*Job market paper*)
 2. Fouls at Home: Football-Induced Domestic Violence and Female Activism
@@ -15,7 +15,7 @@ nav_order: 1
 
 
 ---
-## WORK IN PROGRESS
+## selected work in progress
 
 1. Making an Intersectional Feminist: How does Racial Identification Relate to Challenging Gender Norms?
 2. From Protests to Polls: Evidence of Mass Political Participation in the Chilean Uprising
