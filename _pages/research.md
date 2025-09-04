@@ -10,6 +10,7 @@ nav_order: 1
 ## working papers
 
 1. Motivating Support for Women's Movements: Identity and Appeals. (*Job market paper*) <br>
+[[manuscript](/assets/pdf/Julieta_WomensMovements_Sept2025.pdf)]  [[pre-analysis plan](https://osf.io/v9fd7)] <br>
 
 2. Fouls at Home: Football-Induced Domestic Violence and Female Activism <br>
 
