@@ -26,5 +26,6 @@ Before the PhD, I earned a B.S. in Economics from Universidad de Chile and an M.
 
 
 <br>
---- <br>
-- <a href='#'>Data TA:</a> For students in the department of Politics in need of assistance with data-related projects, you can schedule an [office hour meeting here](https://calendly.com/julieta1/data-ta-office-hours)
+--- 
+
+- <a href='#'>Data TA:</a> For students in the department of Politics in need of assistance with data-related projects, you can schedule an [office hours meeting here](https://calendly.com/julieta1/data-ta-office-hours)
