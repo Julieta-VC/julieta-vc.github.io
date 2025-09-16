@@ -23,3 +23,12 @@ nav_order: 6
 ## Universidad de Chile
 - Introduction to Macroeconomics (Undergraduate) – T.A. for Mario Giarda
 
+
+
+<br>
+--- 
+
+### <a href='#'>Data TA:</a> 
+- For students in the department of Politics in need of assistance with data-related projects, you can schedule an [office hours meeting here](https://calendly.com/julieta1/data-ta-office-hours)
+
+
