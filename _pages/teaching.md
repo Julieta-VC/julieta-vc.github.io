@@ -9,7 +9,8 @@ nav_order: 6
 
 ## New York University
 
-- Politics of Climate Change (Undergraduate) – T.A. for Eric Dickson, Fall 2025 (scheduled)
+- Comparative Politics  (Undergraduate) - T.A. for Gwyneth McClendon, Spring 2026
+- Data TA in Politics (Undergraduate) – Support for students working in various projects, Fall 2025
 - Introduction to Quantitative Methods II (MA) - T.A. for Nicole Simonelli, Spring 2025
 - International Politics (Undergraduate) - T.A. for Nicole Simonelli, Fall 2024
 - Comparative Politics  (Undergraduate) - T.A. for Gwyneth McClendon, Spring 2024
@@ -28,7 +29,7 @@ nav_order: 6
 <br>
 --- 
 
-### <a href='#'>Data TA:</a> 
-- For students in the department of Politics in need of assistance with data-related projects, you can schedule an [office hours meeting here](https://calendly.com/julieta1/data-ta-office-hours)
+### <a href='#'>Comparative Politics - Spring 2026:</a> 
+- For students in my sections of Introduction to CP (POL500) or anyone who needs assistance, you can schedule an [office hours meeting here](https://calendly.com/julieta1/comparative-pol500)
 
 
