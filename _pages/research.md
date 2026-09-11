@@ -9,16 +9,16 @@ nav_order: 1
 
 ## working papers
 
-1. Motivating Support for Women's Movements: Identity and Appeals. (*Job market paper*) <br>
+1. **Motivating Support for Women's Movements: Identity and Appeals**. (*Job market paper*) <br>
 [[manuscript](/assets/pdf/Julieta_WomensMovements_Sept2025.pdf)]  [[pre-analysis plan](https://osf.io/v9fd7)] <br>
 *2026 Best Paper on Intersectionality Award, APSA Women and Gender Politics Research & Race, Ethnicity and Politics* <br>
 
-2. Fouls at Home: Football-Induced Domestic Violence and Female Activism <br>
+2. **Fouls at Home: Football-Induced Domestic Violence and Female Activism** <br>
 
-3. Political Life Cycles and Dispute Onset (with Alastair Smith). *Under review* <br>
+3. **Political Life Cycles and Dispute Onset (with Alastair Smith)**. *Under review* <br>
 [[manuscript](/assets/pdf/DisputeCycles.pdf)]
 
-4. Class Composition and the Emergence of Social Movements: Feminist Strikes in Chilean Universities <br>
+4. **Class Composition and the Emergence of Social Movements: Feminist Strikes in Chilean Universities** <br>
 
 
 ---
